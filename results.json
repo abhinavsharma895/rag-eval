@@ -5,7 +5,7 @@
         "score": 1.0,
         "threshold": 0.7,
         "passed": true,
-        "reason": "The score is 1.00 because the output directly and accurately addresses the question without any irrelevant statements."
+        "reason": "The score is 1.00 because the answer directly addressed the question about how many semesters are in an academic year with no irrelevant content. Great job!"
     },
     {
         "test_case": "test_case_1",
@@ -13,7 +13,7 @@
         "score": 1.0,
         "threshold": 0.7,
         "passed": true,
-        "reason": "The score is 1.00 because the response directly and accurately addresses the input without including any irrelevant information."
+        "reason": "The score is 1.00 because the response fully answered the question about winter and summer break with no irrelevant content."
     },
     {
         "test_case": "test_case_2",
@@ -21,7 +21,7 @@
         "score": 1.0,
         "threshold": 0.7,
         "passed": true,
-        "reason": "The score is 1.00 because the actual output directly and accurately addresses whether Saturday sports and club activities are compulsory without any irrelevant information."
+        "reason": "The score is 1.00 because the response fully addressed the question with no irrelevant content, showing perfect relevance."
     },
     {
         "test_case": "test_case_3",
@@ -29,7 +29,7 @@
         "score": 1.0,
         "threshold": 0.7,
         "passed": true,
-        "reason": "The score is 1.00 because the response is directly on point and completely relevant to the question about orientation week."
+        "reason": "The score is 1.00 because the answer directly addressed when orientation week begins with no irrelevant content, earning a perfect relevancy rating."
     },
     {
         "test_case": "test_case_4",
@@ -37,6 +37,86 @@
         "score": 1.0,
         "threshold": 0.7,
         "passed": true,
-        "reason": "The score is 1.00 because the actual output directly and accurately addresses the input without including any irrelevant statements."
+        "reason": "The score is 1.00 because the response directly answered the question about the Diwali break length with no irrelevant content, earning a perfect relevancy rating."
+    },
+    {
+        "test_case": "test_case_0",
+        "metric": "Faithfulness",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because the actual output fully aligns with the retrieval context, with no contradictions detected."
+    },
+    {
+        "test_case": "test_case_1",
+        "metric": "Faithfulness",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because the actual output fully aligns with the retrieval context, with no contradictions detected."
+    },
+    {
+        "test_case": "test_case_2",
+        "metric": "Faithfulness",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because the actual output fully aligns with the retrieval context, with no contradictions detected."
+    },
+    {
+        "test_case": "test_case_3",
+        "metric": "Faithfulness",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because the actual output fully aligns with the retrieval context, with no contradictions detected."
+    },
+    {
+        "test_case": "test_case_4",
+        "metric": "Faithfulness",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because the actual output fully aligns with the retrieval context, with no contradictions detected."
+    },
+    {
+        "test_case": "test_case_0",
+        "metric": "Contextual Recall",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because sentence 1 is directly supported by node 1 in the retrieval context."
+    },
+    {
+        "test_case": "test_case_1",
+        "metric": "Contextual Recall",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because the sole sentence is directly supported by node 1 in the retrieval context."
+    },
+    {
+        "test_case": "test_case_2",
+        "metric": "Contextual Recall",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because sentence 1 is directly supported by node 1 in the retrieval context."
+    },
+    {
+        "test_case": "test_case_3",
+        "metric": "Contextual Recall",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because sentence 1 is directly supported by node 1 in the retrieval context."
+    },
+    {
+        "test_case": "test_case_4",
+        "metric": "Contextual Recall",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because sentence 1 is directly supported by node 1 in the retrieval context."
     }
 ]
