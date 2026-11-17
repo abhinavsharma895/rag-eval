@@ -259,7 +259,7 @@ python run_eval.py contextual_recall
 The evaluation results are saved in:
 
 ```text
-results_abhinav.json
+results.json
 ```
 
 The output includes:
