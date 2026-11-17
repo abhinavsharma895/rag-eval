@@ -69,7 +69,7 @@ The project evaluates generated answers against expected outputs and retrieved c
                 Evaluation Scores
                        |
                        v
-             results.json
+                 results.json
 ```
 
 ## Evaluation Metrics
@@ -153,7 +153,7 @@ rag-eval/
 │
 ├── cases.json
 │
-├── results_abhinav.json
+├── results.json
 │
 ├── .env
 │
