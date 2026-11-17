@@ -1,0 +1,164 @@
+{
+  "questions": [
+    {
+      "input": "When does the odd semester start and end at Greenfield Institute of Technology?",
+      "expected_output": "The odd semester runs from 4 August to 20 December."
+    },
+    {
+      "input": "When does the even semester start and end?",
+      "expected_output": "The even semester runs from 12 January to 30 May."
+    },
+    {
+      "input": "During which week are mid-semester tests conducted?",
+      "expected_output": "Mid-semester tests are held in the 8th week of each semester."
+    },
+    {
+      "input": "What are the regular class timings, and when is the lunch break?",
+      "expected_output": "Classes run from Monday to Friday, 9:00 am to 4:30 pm. The lunch break is from 1:00 pm to 2:00 pm."
+    },
+    {
+      "input": "Is Saturday attendance compulsory, and what activities are scheduled on Saturdays?",
+      "expected_output": "Saturday attendance is optional. Saturday is reserved for clubs and sports."
+    },
+    {
+      "input": "What is the annual B.Tech tuition fee, and how is it divided into instalments?",
+      "expected_output": "The annual B.Tech tuition fee is Rs 1,20,000. It is paid in two instalments of Rs 60,000 each, due on 10 August and 15 January."
+    },
+    {
+      "input": "What is the late tuition payment charge per day, and what is the maximum penalty?",
+      "expected_output": "The late tuition payment charge is Rs 100 per day after the due date, up to a maximum penalty of Rs 3,000."
+    },
+    {
+      "input": "What happens if a student delays tuition payment by more than 30 days?",
+      "expected_output": "A student who is more than 30 days late cannot attend classes until the outstanding dues are paid."
+    },
+    {
+      "input": "What percentage of tuition fees is refunded if a student withdraws within 7 days of classes starting?",
+      "expected_output": "A student who withdraws within 7 days of classes starting receives a 75 percent tuition fee refund."
+    },
+    {
+      "input": "What CGPA must a student maintain to continue receiving a merit scholarship?",
+      "expected_output": "A student must maintain a CGPA of at least 8.0 to continue receiving a merit scholarship."
+    },
+    {
+      "input": "What is the minimum attendance percentage required to sit for end-semester examinations?",
+      "expected_output": "A student must have at least 75 percent attendance in each course to sit for the end-semester examination."
+    },
+    {
+      "input": "What happens if a student arrives more than 10 minutes late to class?",
+      "expected_output": "A student arriving more than 10 minutes after the class starts is marked absent for that class."
+    },
+    {
+      "input": "Can a student with 60% attendance apply for attendance condonation?",
+      "expected_output": "No. Students with attendance below 65 percent cannot apply for condonation. They must repeat the course."
+    },
+    {
+      "input": "What documents are required for medical leave, and within how many days must they be submitted?",
+      "expected_output": "A medical certificate from a registered doctor is required. It must be submitted within 7 days of returning to class."
+    },
+    {
+      "input": "How are the 100 marks of a course divided between internal assessment and the end-semester examination?",
+      "expected_output": "Each course carries 100 marks. Internal assessment accounts for 40 marks, while the end-semester examination accounts for 60 marks. Internal assessment consists of two mid-semester tests worth 15 marks each and 10 marks for assignments and quizzes."
+    },
+    {
+      "input": "What are the minimum marks required to pass a course overall and in the end-semester examination?",
+      "expected_output": "A student needs at least 40 percent overall and at least 35 percent in the end-semester examination to pass a course."
+    },
+    {
+      "input": "What grade and grade points does a student receive for scoring 85 marks?",
+      "expected_output": "A student scoring 85 marks receives an A+ grade worth 9 grade points."
+    },
+    {
+      "input": "How many days before examinations are hall tickets issued, and what conditions must students satisfy to receive them?",
+      "expected_output": "Hall tickets are issued 7 days before examinations. Students must have cleared their fees and meet the minimum 75 percent attendance requirement."
+    },
+    {
+      "input": "What is the supplementary examination fee, and how many attempts are allowed for a course?",
+      "expected_output": "The supplementary examination fee is Rs 800 per course. A student is allowed a maximum of 3 attempts for any course."
+    },
+    {
+      "input": "How many books can an undergraduate student borrow, and for how many days?",
+      "expected_output": "Undergraduate students can borrow 4 books for 14 days."
+    },
+    {
+      "input": "What is the library late fine per day per book?",
+      "expected_output": "The library late fine is Rs 5 per day per book. The total fine cannot exceed the price of the book."
+    },
+    {
+      "input": "What happens if a student loses a library book?",
+      "expected_output": "A student who loses a library book must pay the current price of the book plus Rs 200 as a processing fee."
+    },
+    {
+      "input": "How many pages can students print per day using the digital library?",
+      "expected_output": "Students are allowed to print a maximum of 50 pages per day."
+    },
+    {
+      "input": "What are the hostel fees for single, double and triple rooms per semester?",
+      "expected_output": "The hostel fee is Rs 52,000 per semester for a single room, Rs 40,000 for a double room and Rs 32,000 for a triple room. These fees include electricity and Wi-Fi."
+    },
+    {
+      "input": "How much is the refundable hostel security deposit, and when is it returned?",
+      "expected_output": "The refundable hostel security deposit is Rs 10,000, paid once at admission. It is returned within 30 days after the student vacates the room and the warden has inspected it."
+    },
+    {
+      "input": "What are the hostel gate closing times from Sunday to Thursday and on Friday and Saturday?",
+      "expected_output": "The hostel gate closes at 9:30 pm from Sunday to Thursday and at 10:30 pm on Friday and Saturday."
+    },
+    {
+      "input": "How many nights of hostel leave can a student take per semester without a parental letter?",
+      "expected_output": "A student can take up to 12 nights of hostel leave per semester without a letter from parents."
+    },
+    {
+      "input": "On which days is non-vegetarian food served in the hostel mess?",
+      "expected_output": "Non-vegetarian food is served on Wednesdays and Sundays at a separate counter."
+    },
+    {
+      "input": "What CGPA and other conditions are required for placement eligibility?",
+      "expected_output": "A student needs a CGPA of at least 6.5, no active backlogs and at least 75 percent attendance to be eligible for placements."
+    },
+    {
+      "input": "How many hours of pre-placement training must students complete, and what is the minimum attendance requirement?",
+      "expected_output": "Every student must complete 30 hours of pre-placement training in aptitude and communication, with at least 90 percent attendance."
+    },
+    {
+      "input": "What happens if a student accepts a placement offer of Rs 8 lakh or more per year?",
+      "expected_output": "A student who accepts an offer of Rs 8 lakh or more per year cannot sit for any further placement drives."
+    },
+    {
+      "input": "How long is the mandatory internship after the sixth semester, and how many academic credits does it carry?",
+      "expected_output": "Every student must complete an 8-week internship after the 6th semester. The internship carries 4 academic credits."
+    },
+    {
+      "input": "How much does the college bus pass cost per semester, and what is the late renewal fee?",
+      "expected_output": "The college bus pass costs Rs 6,000 per semester. Renewing the pass after 15 August carries a late fee of Rs 200."
+    },
+    {
+      "input": "How much does a replacement student ID card cost, and how many working days does it take?",
+      "expected_output": "A replacement student ID card costs Rs 200 and takes 3 working days. It must be applied for at the administration office."
+    },
+    {
+      "input": "How much high-speed Wi-Fi data does each student receive monthly, and what happens after the limit is exhausted?",
+      "expected_output": "Each student receives 50 GB of high-speed Wi-Fi data per month at up to 200 Mbps. After using 50 GB, the speed is reduced to 2 Mbps, but the connection is not blocked."
+    },
+    {
+      "input": "What is the annual accident insurance coverage provided to every student?",
+      "expected_output": "Every student is covered by accident insurance of Rs 2,00,000 per year, included in the tuition fee. Insurance claims must be filed within 15 days."
+    },
+    {
+      "input": "What are the penalties for smoking or drinking alcohol on campus for the first, second and third offences?",
+      "expected_output": "The first offence carries a fine of Rs 5,000, the second offence carries a fine of Rs 10,000, and the third offence results in suspension for one semester."
+    },
+    {
+      "input": "What happens to a student caught ragging another student?",
+      "expected_output": "A student found ragging is suspended immediately, and the case is referred to the Anti-Ragging Committee in Block A, room 12."
+    },
+    {
+      "input": "Within how many working days does the institute acknowledge a grievance submitted through the ERP?",
+      "expected_output": "The institute acknowledges a grievance within 2 working days. The grievance is resolved within 15 working days."
+    },
+    {
+      "input": "How many members are there in the Disciplinary Committee, and who are they?",
+      "expected_output": "The Disciplinary Committee has 5 members: the Dean of Students, two faculty members, one student representative and one hostel warden."
+    }
+  ]
+}

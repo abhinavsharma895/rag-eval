@@ -1,0 +1,42 @@
+[
+    {
+        "test_case": "test_case_0",
+        "metric": "Answer Relevancy",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because the output directly and accurately addresses the question without any irrelevant statements."
+    },
+    {
+        "test_case": "test_case_1",
+        "metric": "Answer Relevancy",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because the response directly and accurately addresses the input without including any irrelevant information."
+    },
+    {
+        "test_case": "test_case_2",
+        "metric": "Answer Relevancy",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because the actual output directly and accurately addresses whether Saturday sports and club activities are compulsory without any irrelevant information."
+    },
+    {
+        "test_case": "test_case_3",
+        "metric": "Answer Relevancy",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because the response is directly on point and completely relevant to the question about orientation week."
+    },
+    {
+        "test_case": "test_case_4",
+        "metric": "Answer Relevancy",
+        "score": 1.0,
+        "threshold": 0.7,
+        "passed": true,
+        "reason": "The score is 1.00 because the actual output directly and accurately addresses the input without including any irrelevant statements."
+    }
+]
