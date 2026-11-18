@@ -325,21 +325,7 @@ The current metric threshold is configured to `0.7`.
 
 This README documents the Groq + Gemini integration branch.
 
-To switch to this branch:
 
-```bash
-git checkout your-branch-name
-```
-
-To push changes:
-
-```bash
-git add .
-git commit -m "Update Groq and Gemini evaluation documentation"
-git push origin your-branch-name
-```
-
-The README in this branch is independent of the README in the `main` branch.
 
 ## Future Improvements
 
